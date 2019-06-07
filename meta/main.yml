@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: prometheus
   author: Andrew Rothstein
   description: installs prometheus
   company: PointState Capital
