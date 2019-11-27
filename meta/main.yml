@@ -28,7 +28,7 @@ galaxy_info:
 
 dependencies:
   - src: andrewrothstein.prometheus-installer
-    version: v2.0.4
+    version: v2.0.5
     prometheus_installer_versions:
       - name: prometheus
-        version: '2.13.1'
+        version: '2.14.0'
