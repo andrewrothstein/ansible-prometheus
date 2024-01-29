@@ -1,2 +1,3 @@
 ---
 # defaults file for prometheus
+prometheus_ver: 2.49.1
